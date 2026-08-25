@@ -1,12 +1,11 @@
-# Grekal Bed Salento — demo Vercel
+# Grekal Bed Salento — demo V2
 
-Demo statica e mobile-first del restyling del sito Grekal Bed Salento.
+Demo statica HTML/CSS/JS pronta per Vercel.
 
-## Pubblicazione su Vercel
+## Pubblicazione
+- Framework Preset: Other / Static
+- Build command: nessuno
+- Output directory: `.`
 
-1. Carica questa cartella su GitHub oppure trascinala nell'import di Vercel.
-2. Framework preset: **Other** / static.
-3. Build command: nessuno.
-4. Output directory: `/`.
-
-La demo non richiede Node, database o API.
+## Note
+I testi della demo evitano di inventare servizi o condizioni non confermate. Prima della pubblicazione reale, verificare con il proprietario servizi, prezzi, camere, colazione, distanze e contenuti legali/privacy.
